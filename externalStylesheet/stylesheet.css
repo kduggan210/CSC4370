@@ -3,8 +3,12 @@ body {
     font-family: Georgia, serif;
 }
 
-h1 {
+h1, h2 {
     color: #8DA9C4
+}
+
+h2{
+    font-size:x-large
 }
 
 p {
