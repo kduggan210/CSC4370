@@ -1,23 +1,36 @@
+
+
+/* Uniform background color and font */
 body {
     background-color: #0B2545;
     font-family: Georgia, serif;
+    margin: 0;
 }
 
+/* Unique heading color */
 h1, h2 {
     color: #8DA9C4
 }
 
+/* Name subheading is slightly smaller than page heading */ 
 h2{
     font-size:x-large
 }
 
+/* Unique color for text of paragraphs */
 p {
     color: #EEF4ED
 }
 
+/* Links are underlined and match heading color */
 a {
     color: #8DA9C4;
     text-decoration: underline;
+}
+
+/* Links are changed to white when hovered over */
+a:hover {
+    color: #EEF4ED;
 }
 
 div {
